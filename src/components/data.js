@@ -9,6 +9,8 @@ import mongo from '../assets/mongodb.png';
 import node from '../assets/node.png';
 import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
+import vue from '../assets/vue.png';
+import laravel from '../assets/laravel.png';
 import proj1 from "../assets/proj1.png";
 import proj2 from "../assets/proj2.png";
 import proj3 from "../assets/proj3.png";
@@ -24,6 +26,8 @@ export const skills = [
   { name: "MongoDB", icon: mongo },
   { name: "Flutter", icon: flutter },
   { name: "Git", icon: git },
+  { name: "VueJS", icon: vue },
+  { name: "Laravel", icon: laravel },
 ];
 
 
